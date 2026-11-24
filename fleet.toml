@@ -1,0 +1,3 @@
+[gate]
+verdict_authors = ["reviewer-bot"]
+required_checks = ["test"]
